@@ -19,8 +19,8 @@
   
  ## Запуск
 
-    git clone https://github.com/6aldej/React-weather.git
-    cd React-weather
+    git clone https://github.com/6aldej/React-Weather.git
+    cd React-Weather
     npm install
     npm start
 
