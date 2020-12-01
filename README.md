@@ -15,7 +15,7 @@
   
 ## Необходимо
   Для работы приложения необходимо зарегестрироваться на сайте `https://openweathermap.org` и получить **API KEY**. Далее в файле `src/App.js` в 
-  `const API_KEY` вместо `"⚠⚠⚠ENTER YOUR API KEY⚠⚠⚠"` ввести свой API KEY.
+  `const API_KEY` вместо ввести свой API KEY.
   
  ## Запуск
 
